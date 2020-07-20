@@ -1,5 +1,6 @@
 To run this script, you need the following python packages : skyfield, shapely, numpy and time. You can simply install them with pip. 
 
+You can call the script using python predictsat.py -i <inputfile> -o <outputfolder>. 
 The input file contains the data needed for the script to run (in tsv format). To use the script on your own data, 
 just change the values of the observatory location, start and stop time as well as min/max Ra/dec of the region of the sky observed.
 Be careful not to modify the first entry of each line (observatory location, start time (YMDHMin), stop time (YMDHMin), Ra min/max, dec min/max).
