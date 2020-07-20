@@ -1,0 +1,4 @@
+observatory location	-24.6272 N	70.4036 W	2600.0		
+start time (YMDHMin)	2020	3	18	00	21.5
+stop time (YMDHMin)	2020	3	18	00	28
+Ra min/max, dec min/max	140.71629077	141.79704064	1.9371458	3.01155805	
